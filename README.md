@@ -1,6 +1,6 @@
 # Rust_Learning_Road
 Hi there curious person, you found me. 
-Not much I can give you here except an exciting news that I am learning the Rust Programming Language....Yay!
+Not much I can give you here except an exciting news that I am learning [The Rust Programming Language](https://www.rust-lang.org/)....Yay!
 
 # Why? 
 Well, Every language is good...Rust is just.. better at doing everything they can, but better.. and faster!
